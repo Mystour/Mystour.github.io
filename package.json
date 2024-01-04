@@ -1,21 +1,21 @@
 {
-  "name": "dmego-home-page",
-  "version": "1.0.5",
-  "description": "Dmego Home Page",
-  "scripts": {
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dmego/home.github.io.git"
-  },
+  "name": "mystour-home-page",
+  "version": "1.0.6",
+  "description": "Mystour Home Page",
+  "scripts": {},
   "keywords": [
-    "Dmego",
+    "Mystour",
     "HomePage"
   ],
-  "author": "Dmego",
+  "author": "Mystour",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dmego/home.github.io/issues"
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mystour/Mystour.github.io.git"
   },
-  "homepage": "https://github.com/dmego/home.github.io#readme"
+  "bugs": {
+    "url": "https://github.com/Mystour/Mystour.github.io/issues"
+  },
+  "homepage": "https://github.com/Mystour/Mystour.github.io#readme"
 }
